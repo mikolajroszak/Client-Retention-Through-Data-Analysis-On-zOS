@@ -49,7 +49,7 @@ Either run locally:
 Clone the Client-Retention-Through-Data-Analysis-On-zOS locally. In a terminal, run:
 
 ```
-$ git clone this_needs_to_be_updated
+$ git clone git@github.com:IBM/Client-Retention-Through-Data-Analysis-On-zOS.git
 ```
 
 ### 2. Run Jupyter Notebook
