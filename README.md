@@ -27,7 +27,7 @@ This demo is written in Python and includes many of the top Python libraries lik
 * [Seaborn](https://seaborn.pydata.org): A Python data visualization library that's based on MatPlotLib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 * [Numpy](http://www.numpy.org): The fundamental package for scientific computing with Python. It contains among other things:
 * [DSDBC](https://anaconda.org/izoda/dsdbc)
-* [ODL](https://izoda.github.io/site/odl/odl/)The Optimized Data Layer is also known as the IBM Mainframe Data Service for Apache Spark (MDS, or MDSS).
+* [ODL](https://izoda.github.io/site/odl/odl/): The Optimized Data Layer is also known as the IBM Mainframe Data Service for Apache Spark (MDS, or MDSS).
 
 ## Featured technologies
 
