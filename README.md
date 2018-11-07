@@ -40,7 +40,7 @@ This demo is written in Python and includes many of the top Python libraries lik
 Either run locally:
 
 1. [Clone the repo](#1-clone-the-repo)
-2. [Run Jupyter Notebooks](#2-run-jupyter-notebooks)
+2. [Run Jupyter Notebook](#2-run-jupyter-notebooks)
 
 ## Run locally
 
