@@ -63,7 +63,7 @@ The code included in this code pattern runs in a Jupyter Notebook.
    jupyter notebook
    ```
 
-* Navigate to the `notebooks` directory and open the notebook file named `credit_scoring.ipynb` by clicking on it.
+* Navigate to the `notebooks` directory and open the notebook file named `client_retention_demo.ipynb` by clicking on it.
 
 
 # Links
